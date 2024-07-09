@@ -1,4 +1,7 @@
 # Drug Abuse: Exploring the Nexus between substance Abuse and diverse criminal Activities
+
+![](Image1.jpg)
+
 This project involves a comprehensive Excel-based analysis to explore the complex relationship between substance abuse and various criminal activities. Utilizing Data Analytics, I applied both Descriptive and Diagnostic Analytics methodologies to uncover patterns and correlations within real-world healthcare data. This endeavor not only provided invaluable insights into the impact of substance abuse on criminal behavior but also enhanced my analytical skills and deepened my understanding of critical social issues.
 
 ## Learning  points
@@ -48,7 +51,8 @@ D. Trend Identification: Identify and document temporal trends in drug-related c
 E. Location Analysis: Conduct location-based analysis to pinpoint geographical hotspots of drug-related criminal activities, supporting focused law enforcement efforts.
  
 F. Data Visualization: Develop clear and intuitive data visualizations, such a charts, graphs, using  Excel to present analytical findings for easy interpretation by stakeholders.
-Data Description
+
+## Data Description
 -	 Incident_ID: A unique identifier for each incident.
 -	Crime_Type: The type of crime committed in the incident (e.g., Theft, Vandalism, Assault).
 -	 Crime_Location: The location where the crime took place (e.g., Urban, Downtown, Rural).
@@ -65,13 +69,19 @@ Data Description
 -	Hospital_Admission: Indicates whether the individual was admitted to a hospital as a result of the incident (e.g., "Yes" or "No").
 -	Overdose_Incident: Indicates whether the incident involved an overdose (e.g., "Yes" or "No").
 -	Addiction_Treatment: Specifies whether the individual is receiving addiction treatment as a result of the incident (e.g., "Inpatient" or "Outpatient").
+-	
 ## Tech Stack
  Excel will be used for this project, by utilizing its built-in features for data filtering, sorting, and pivot tables to explore trends and relationships within the data. Additionally, Excel's charting capabilities can help visualize patterns and summarize key insights from the dataset.
+ 
 ## Project Scope 
 A. Data Collection: Gather data related to substance abuse and criminal activities from various sources, Organize this data into structured Excel spreadsheets for analysis. 
 B. Data Cleaning and Validation: Conduct thorough data cleaning procedures with Excel to address issues such as missing values, duplicate entries, and formatting inconsistencies. 
 C. Exploratory Data Analysis (EDA): Utilize Excel’s built-in statistical functions and tools to perform descriptive data analysis. Calculate key summary statistics, for crime frequencies, drug types, and demographics. 
-D. Data Visualization: Develop Excel - based data visualizations, Ensure that reports are structured for easy consumption by decision-makers.
+D. Data Visualization: Develop Excel-based data visualizations and ensure that reports are structured for easy consumption by decision-makers.
+
+## Link to Project:
+
+https://github.com/EngrIBGIT/Drug-Abuse-/blob/main/Drug_Analysis_RDb.xlsx
 
 ## Insights:
 -	Trend of Crime in 2022: Crime incidents saw a peak in June and then a gradual decline towards the end of the year.
@@ -99,5 +109,9 @@ This could include educational campaigns about the dangers of drugs and criminal
 -	Community Policing: Encourage community policing and community watch programs, especially in high-incidence areas.
 -	Data Continuation: Continually update and review the dashboard to adapt strategies and interventions based on changing trends and patterns.
 -	Gender-Specific Programs: Given the higher male involvement in incidents, consider gender-specific interventions or programs targeting males.
+
+
+
+![](Image13.jpg)
 
 
